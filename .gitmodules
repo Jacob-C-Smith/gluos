@@ -1,0 +1,24 @@
+[submodule "application/log"]
+	path = application/log
+	url = https://github.com/Jacob-C-Smith/log
+[submodule "application/sync"]
+	path = application/sync
+	url = https://github.com/Jacob-C-Smith/sync
+[submodule "application/tuple"]
+	path = application/tuple
+	url = https://github.com/Jacob-C-Smith/tuple
+[submodule "application/array"]
+	path = application/array
+	url = https://github.com/Jacob-C-Smith/array
+[submodule "application/dict"]
+	path = application/dict
+	url = https://github.com/Jacob-C-Smith/dict
+[submodule "application/code-gen"]
+	path = application/code-gen
+	url = https://github.com/Jacob-C-Smith/code-gen
+[submodule "application/glufs"]
+	path = application/glufs
+	url = https://github.com/Jacob-C-Smith/glufs
+[submodule "application/tree"]
+	path = application/tree
+	url = https://github.com/Jacob-C-Smith/tree
